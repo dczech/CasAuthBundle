@@ -11,7 +11,7 @@
     }
   ],
   "require": {
-    "symfony/symfony-framework-bundle": ">=2.8",
+    "symfony/framework-bundle": ">=2.8",
     "guzzlehttp/guzzle": "^6.2"
   },
   "autoload": {

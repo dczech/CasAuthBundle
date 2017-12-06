@@ -20,7 +20,7 @@
   "target-dir": "PRayno/CasAuthBundle",
   "extra": {
     "branch-alias": {
-      "dev-master": "1.2-dev"
+      "dev-symfony": "1.2-dev"
     }
   }
 }
